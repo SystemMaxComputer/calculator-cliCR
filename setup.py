@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="cli-calculator",
-    version="o.1",
+    version="0.1",
     packages=['calculator', 'tests'],
     install_requires=[
         'click'
